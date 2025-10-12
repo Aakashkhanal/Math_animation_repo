@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/1185818338_507352399_223132457.mp4'
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/624642324_1959358871_3158045001.mp4'
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/624642324_1601339267_2184563672.mp4'
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/624642324_1959358871_3030111619.mp4'
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/624642324_1307464894_1242589552.mp4'
+file 'file:/Users/aakashkhanal/Desktop/manem/Practice/media/videos/Practice/480p15/partial_movie_files/CurveSketching_shifting/624642324_1959358871_3258700548.mp4'
